@@ -25,6 +25,6 @@ Q10. Write a Python program to insert a given string at the beginning of all ite
 
 ## Aim
 
-⦿ Pull Request
+⦿ Install git on your local system, git will be our primary version controll system
 
-⦿ Learn Basic of Git i.e Staging, Commiting, Branching
+⦿ Learn Basic of Git i.e cloning a repository, making changes, staging chages, making commits, creating new pull requests
