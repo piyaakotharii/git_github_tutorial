@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-show_downloads: true
+show_cheatsheet: true
 github:
-  zip_url: cheat-sheet.html
-  another_url: another value
+  url: cheat-sheet.html
