@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 show_downloads: true
 github:
-  zip_url: https://github.com/open-source-club/git_github_tutorial/blob/working/cheat-sheet.html
+  zip_url: cheat-sheet.html
   another_url: another value
